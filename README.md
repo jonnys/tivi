@@ -1,8 +1,10 @@
-![Tivi](https://raw.githubusercontent.com/chrisbanes/tivi/master/art/banner.png)
+﻿![Tivi](https://raw.githubusercontent.com/chrisbanes/tivi/master/art/banner.png)
 
 # Tivi 📺 (work-in-progress 👷🔧️👷‍♀️⛏)
 
 **This is not an official Google product**
+
+THIS IS A CHANGE
 
 Tivi is a **work-in-progress** TV show tracking Android app, which connects to
 [Trakt.tv](https://www.trakt.tv). It is still in its early stages of development and currently
